@@ -9,7 +9,7 @@ The neural networks, contained in the `networks` folder, were trained using the 
 
 - [📦 Requirements](#requirements)
 - [🏁 Getting Started](#getting-started)
-- [🔎😄 Usage](#usage)
+- [🖼️ Usage](#usage)
 - [❓ Resolution and Feature Size](#resolution-and-feature-size)
 - [💬 Contribute](#contribute)
 
