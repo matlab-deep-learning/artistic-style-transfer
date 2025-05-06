@@ -21,7 +21,7 @@ Make sure you have the minimum following requirements:
 - [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)
 - [MATLAB Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams)
 - A webcam
-- [A supported GPU](https://www.mathworks.com/help/parallel-computing/gpu-support-by-release.html) (optional for better performance)
+- [A supported GPU](https://mathworks.com/help/parallel-computing/gpu-computing-requirements.html) (optional for better performance)
 
 Note that, once you have MATLAB installed, the easiest way to install toolboxes and support packages
  is the [Add-On Explorer](https://www.mathworks.com/help/matlab/matlab_env/get-add-ons.html). 
